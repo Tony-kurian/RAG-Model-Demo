@@ -1,0 +1,1 @@
+#Fixed-Size Chunking (often implemented as Character-Based Splitting)
